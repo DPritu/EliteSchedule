@@ -1,0 +1,10 @@
+<AppUpdater>
+<update>
+<latestVersion>1.8</latestVersion>
+<latestVersionCode>8</latestVersionCode>
+<url>http://pritu.ru/dev/eliteschedule/app-debug.apk</url>
+<releaseNotes>
+— Увеличил отступ
+</releaseNotes>
+</update>
+</AppUpdater>
