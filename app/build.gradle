@@ -5,8 +5,8 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "ru.dpritu.eliteschedule"
-        versionCode 7
-        versionName "1.6"
+        versionCode 9
+        versionName "1.7"
         minSdkVersion 19
         targetSdkVersion 28
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
